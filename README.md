@@ -6,3 +6,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3babb2d4-e3f0-4a29-94ce-035a2d5e5697" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68cc0ac0-b377-40e8-b6c9-6e157cda8b03" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a75bb097-4e17-4b37-aad4-d9f6a2b4fcf1" />
+Search: 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/860d7a4c-466c-4501-8b8f-b619e58e4101" />
+Price filter
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28b31afc-8e3a-464a-9937-68dd301c526c" />
+Ordering
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88d9abbf-25fb-4136-ba59-b60c096d0020" />
